@@ -1,0 +1,30 @@
+[2025-12-02 14:52:57] https://youtu.be/L-QDus6rq6Y - Ошибка yt-dlp: ERROR: [youtube] L-QDus6rq6Y: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[2025-12-02 14:52:57] https://youtu.be/wXsIgN7fO74?si=PKaR2Ijhn0PPPvLw - Ошибка yt-dlp: ERROR: [youtube] wXsIgN7fO74: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[2025-12-02 14:53:18] https://youtu.be/kUlJBRceh-8 - Ошибка yt-dlp: ERROR: [youtube] kUlJBRceh-8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[2025-12-02 14:54:02] https://youtu.be/Ms_XOy5MG6g - Ошибка VOT (код 3221225786)
+[2025-12-02 14:54:02] https://youtu.be/bkd24qBXxZ0 - Ошибка VOT (код 3221225786)
+[2025-12-02 14:59:13] https://youtu.be/UQySK6E13V8 - Таймаут 5 минут
+[2025-12-02 15:01:09] https://youtu.be/bkd24qBXxZ0 - Таймаут 5 минут
+[2025-12-02 15:03:55] https://youtu.be/Ms_XOy5MG6g - Таймаут 5 минут
+[2025-12-02 15:08:55] https://youtu.be/1rlGyg8deYw - Таймаут 5 минут
+[2025-12-02 15:09:27] https://youtu.be/Yp-VBg3LFqY?si=d1S9-tfBb0B_rWXs - Таймаут 5 минут
+[2025-12-02 15:11:37] https://youtu.be/j1zwKZaRcZM - Таймаут 5 минут
+[2025-12-02 15:32:48] https://youtu.be/1rlGyg8deYw - Таймаут 20 минут (очень длинное видео)
+[2025-12-02 15:32:48] https://youtu.be/bkd24qBXxZ0 - Таймаут 20 минут (очень длинное видео)
+[2025-12-02 15:52:48] https://youtu.be/Yp-VBg3LFqY?si=d1S9-tfBb0B_rWXs - Таймаут 20 минут (очень длинное видео)
+[2025-12-02 15:52:48] https://youtu.be/j1zwKZaRcZM - Таймаут 20 минут (очень длинное видео)
+[2025-12-02 16:12:48] https://youtu.be/Ms_XOy5MG6g - Таймаут 20 минут (очень длинное видео)
+[2025-12-02 16:12:48] https://youtu.be/UQySK6E13V8 - Таймаут 20 минут (очень длинное видео)
+[2025-12-02 16:17:44] https://youtu.be/bkd24qBXxZ0 - Ошибка VOT (код 3221225786)
+[2025-12-02 16:17:44] https://youtu.be/UQySK6E13V8 - Ошибка VOT (код 3221225786)
+[2025-12-02 17:08:07] https://youtu.be/1rlGyg8deYw - Таймаут 20 минут (очень длинное видео)
+[2025-12-02 17:58:07] https://youtu.be/Ms_XOy5MG6g - Таймаут 20 минут (очень длинное видео)
+[2025-12-02 18:48:07] https://youtu.be/j1zwKZaRcZM - Таймаут 20 минут (очень длинное видео)
+[2025-12-02 19:38:07] https://youtu.be/Yp-VBg3LFqY?si=d1S9-tfBb0B_rWXs - Таймаут 20 минут (очень длинное видео)
+[2025-12-02 20:28:07] https://youtu.be/UQySK6E13V8 - Таймаут 20 минут (очень длинное видео)
+[2025-12-02 21:18:07] https://youtu.be/bkd24qBXxZ0 - Таймаут 20 минут (очень длинное видео)
+[2025-12-07 10:06:39] https://youtu.be/UQySK6E13V8 - Таймаут 5 минут
+[2025-12-07 10:06:39] https://youtu.be/Ms_XOy5MG6g - Таймаут 5 минут
+[2025-12-07 10:07:34] https://youtu.be/1rlGyg8deYw - Таймаут 5 минут
+[2025-12-07 10:11:39] https://youtu.be/j1zwKZaRcZM - Таймаут 5 минут
+[2025-12-07 10:11:39] https://youtu.be/Yp-VBg3LFqY?si=d1S9-tfBb0B_rWXs - Таймаут 5 минут

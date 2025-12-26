@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "vot-cli-live": "github:fantomcheg/vot-cli-live"
+  }
+}
